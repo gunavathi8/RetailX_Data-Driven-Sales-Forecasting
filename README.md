@@ -1,7 +1,7 @@
-# Big Mart Sales Prediction
+# RetailX: Data-Driven Sales Forecasting
 
 ## Overview
-This repository contains a Big Mart Sales Prediction project aimed at predicting the sales of products in various Big Mart outlets. The project leverages XGBoost Regressor as the primary model due to its efficiency and accuracy in handling regression tasks. Additionally, LightGBM and CatBoost models were trained to compare their performance with XGBoost.
+This repository contains a Sales Forecasting project aimed at predicting the sales of products in various Retail outlets. The project leverages XGBoost Regressor as the primary model due to its efficiency and accuracy in handling regression tasks. Additionally, LightGBM and CatBoost models were trained to compare their performance with XGBoost.
 The goal of this project is to provide insights into sales trends and help Big Mart outlets optimize their inventory and sales strategies.
 
 ## Project Objectives
